@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 17.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="0 0 639.4 587.2" enable-background="new 0 0 639.4 587.2" xml:space="preserve">
+<path d="M551.5-1H87.9c-4.6,0-9.1,0.4-13.5,1H565C560.6-0.7,556.1-1,551.5-1z"/>
+<g>
+	<linearGradient id="SVGID_1_" gradientUnits="userSpaceOnUse" x1="-1.025391e-002" y1="293.5969" x2="639.3647" y2="293.5969">
+		<stop  offset="0" style="stop-color:#1FC9FD"/>
+		<stop  offset="1" style="stop-color:#FB0061"/>
+	</linearGradient>
+	<path fill="url(#SVGID_1_)" d="M565,0H74.3C32.3,6.5,0,43,0,86.9v283.7c0,48.4,39.3,87.7,87.6,87.9v128.7l185-128.7h278.9
+		c48.5,0,87.9-39.4,87.9-87.9V86.9C639.4,43,607.1,6.5,565,0z M601.9,370.6c0,27.8-22.6,50.4-50.4,50.4H260.8L125,515.5V421H87.9
+		c-27.8,0-50.4-22.6-50.4-50.4V86.9c0-27.8,22.6-50.4,50.4-50.4h463.6c27.8,0,50.4,22.6,50.4,50.4V370.6z"/>
+	<linearGradient id="SVGID_2_" gradientUnits="userSpaceOnUse" x1="-1.025391e-002" y1="150.0626" x2="639.3647" y2="150.0626">
+		<stop  offset="0" style="stop-color:#1FC9FD"/>
+		<stop  offset="1" style="stop-color:#FB0061"/>
+	</linearGradient>
+	<rect x="171.1" y="131.3" fill="url(#SVGID_2_)" width="297.1" height="37.5"/>
+	<linearGradient id="SVGID_3_" gradientUnits="userSpaceOnUse" x1="-1.025391e-002" y1="229.9845" x2="639.3647" y2="229.9845">
+		<stop  offset="0" style="stop-color:#1FC9FD"/>
+		<stop  offset="1" style="stop-color:#FB0061"/>
+	</linearGradient>
+	<rect x="171.1" y="211.3" fill="url(#SVGID_3_)" width="297.1" height="37.5"/>
+	<linearGradient id="SVGID_4_" gradientUnits="userSpaceOnUse" x1="-1.025391e-002" y1="309.9063" x2="639.3647" y2="309.9063">
+		<stop  offset="0" style="stop-color:#1FC9FD"/>
+		<stop  offset="1" style="stop-color:#FB0061"/>
+	</linearGradient>
+	<rect x="171.1" y="291.2" fill="url(#SVGID_4_)" width="297.1" height="37.5"/>
+</g>
+</svg>
